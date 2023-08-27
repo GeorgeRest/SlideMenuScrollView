@@ -1,0 +1,2 @@
+# SlideMenuScrollView
+Android自定义HorizontalScrollView实现仿微信侧滑删除（多触点拉出侧滑菜单）
